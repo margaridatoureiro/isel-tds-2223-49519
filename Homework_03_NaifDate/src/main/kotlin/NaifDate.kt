@@ -17,7 +17,10 @@ class NaifDate(
             inc -= (daysInAMonth(m, y) - d)
             d = 1
             m = m %12 + 1
-            if(m == 1) y++
+            if(m == 1) {
+                y++
+                d = 0
+            }
         }
         return NaifDate(d + inc, m, y)
     }
