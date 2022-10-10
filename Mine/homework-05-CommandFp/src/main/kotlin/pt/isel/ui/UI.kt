@@ -26,6 +26,9 @@ fun readCommandsOop(cmds: Map<String, CommandOop>) {
 
 /* IN PROGRESS, TO BE CONCLUDED */
 
+/* possible solution: creating a CommandGeneric used by CommandOop and CommandFp*/
+/* would allow to use a single function readCommand */
+
 /*fun readCommandsFp(cmds: Map<String, CommandFp>) {
     var board: Board? = null
     while(true) {

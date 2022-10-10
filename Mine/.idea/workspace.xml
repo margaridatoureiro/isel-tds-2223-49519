@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43eeb8b5-a3e5-4494-bbe8-ad003aba8db9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework-03-NaifDate/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-03-NaifDate/src/main/kotlin/pt/isel/NaifDate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-03-NaifDate/src/test/kotlin/pt/isel/NaifDateTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-04-NaifDate/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-04-NaifDate/src/main/kotlin/pt/isel/Month.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-04-NaifDate/src/main/kotlin/pt/isel/NaifDate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-04-NaifDate/src/test/kotlin/pt/isel/NaifDateTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/Actions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/GridOutput.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/UI.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/fp/CommandFp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/fp/TictactoeCmdsFp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/oop/CommandOop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/oop/TictactoeCmdsOop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/test/kotlin/pt/isel/ui/UiTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/src/main/kotlin/pt/isel/ttt/Board.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/src/main/kotlin/pt/isel/ttt/Move.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/src/main/kotlin/pt/isel/ttt/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/src/main/kotlin/pt/isel/ttt/Position.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson09-tictactoe-model/src/test/kotlin/pt/isel/ttt/BoardTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/CommandFp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/CommandOop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/TictactoeCmdsFp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/TictactoeCmdsOop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/main/kotlin/pt/isel/ui/UI.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10-tictactoe-ui/src/test/kotlin/pt/isel/ui/UiTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_03_NaifDate/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_03_NaifDate/src/main/kotlin/NaifDate.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_03_NaifDate/src/test/kotlin/NaifDateTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_04_NaifDate/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_04_NaifDate/src/main/kotlin/Month.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_04_NaifDate/src/main/kotlin/NaifDate.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_04_NaifDate/src/test/kotlin/NaifDateTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/UI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/homework-05-CommandFp/src/main/kotlin/pt/isel/ui/UI.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +209,7 @@
       <workItem from="1664120410040" duration="1019000" />
       <workItem from="1664121520245" duration="5693000" />
       <workItem from="1665333609394" duration="14672000" />
-      <workItem from="1665409953434" duration="4299000" />
+      <workItem from="1665409953434" duration="4974000" />
     </task>
     <servers />
   </component>
