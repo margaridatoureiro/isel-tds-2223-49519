@@ -5,9 +5,6 @@ data class NaifDate(
     private val month: Month,
     private val year: Int)
 {
-    // FIELD: private final int daysInAMonth;
-    //    private val daysInAMonth = when (month) {
-    // FUNCTION: private final int getDaysInAMonth();
     private val daysInAMonth
         get() = when (month.monthNumber) {
             1,3,5,7,8,10,12 -> 31
@@ -17,7 +14,6 @@ data class NaifDate(
 
  /*   val nextMonth = month.monthNumber % 12 + 1*/
     val nextMonth = month.nextMonth()
-
 
     fun addDays(inc: Int) : NaifDate {
         val diff = inc - (daysInAMonth - day + 1)
@@ -36,14 +32,6 @@ data class NaifDate(
         return year % 4 == 0 && year % 100 != 0 || year % 400 == 0
     }
 
-    /*
-    override fun equals(other: Any?): Boolean {
-        if(other !is NaifDate) return false
-        return this.day == other.day
-                && this.month == other.month
-                && this.year == other.year
-    }
-*/
     override fun toString(): String {
         return "$day-${month.monthNumber}-$year"
     }

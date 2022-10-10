@@ -10,8 +10,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Mine" />
-            <option value="$PROJECT_DIR$/homework_03_NaifDate" />
-            <option value="$PROJECT_DIR$/homework_04_NaifDate" />
+            <option value="$PROJECT_DIR$/homework-03-NaifDate" />
+            <option value="$PROJECT_DIR$/homework-04-NaifDate" />
+            <option value="$PROJECT_DIR$/homework-05-CommandFp" />
+            <option value="$PROJECT_DIR$/lesson09-tictactoe-model" />
+            <option value="$PROJECT_DIR$/lesson10-tictactoe-ui" />
           </set>
         </option>
       </GradleProjectSettings>

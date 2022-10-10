@@ -25,5 +25,6 @@ tasks.withType<KotlinCompile> {
 }
 
 application {
-    mainClass.set("MainKt")
+    /*mainClass.set("MainKt")*/
+    mainClass.set("pt.isel.AppKt")
 }
